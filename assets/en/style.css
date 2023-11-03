@@ -328,6 +328,18 @@ h6,
   display: block;
 }
 
+.font-tajwal {
+  font-family: 'Tajawal', sans-serif !important;
+  font-size: 1rem !important;
+}
+
+.font-glow {
+  background-color: purple;
+  margin-left: 12px;
+  padding: 8px !important;
+  font-weight: bold;
+  border-radius: 6px;
+}
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
