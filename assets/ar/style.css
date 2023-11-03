@@ -150,7 +150,8 @@ h6,
 .navbar a:focus i {
   font-size: 12px;
   line-height: 0;
-  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: -5px;
 }
 
 .navbar a:hover,
